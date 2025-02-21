@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\curse\\OneDrive - Ozarks Technical Community College\\C# PROGRAMMING\\Testing Exceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA67C1F-C00F-4A33-BDF4-5AE0E77FFD9A}|UserValidatorTests\\UserValidatorTests.csproj|c:\\users\\curse\\onedrive - ozarks technical community college\\c# programming\\testing exceptions\\uservalidatortests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA67C1F-C00F-4A33-BDF4-5AE0E77FFD9A}|UserValidatorTests\\UserValidatorTests.csproj|solutionrelative:uservalidatortests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62AFE8C-F4D5-4D92-9D55-98AC41295FF4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\curse\\onedrive - ozarks technical community college\\c# programming\\testing exceptions\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62AFE8C-F4D5-4D92-9D55-98AC41295FF4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\curse\\OneDrive - Ozarks Technical Community College\\C# PROGRAMMING\\Testing Exceptions\\UserValidatorTests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "UserValidatorTests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\curse\\OneDrive - Ozarks Technical Community College\\C# PROGRAMMING\\Testing Exceptions\\UserValidatorTests\\MSTestSettings.cs",
+              "RelativeToolTip": "UserValidatorTests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:49:40.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\curse\\OneDrive - Ozarks Technical Community College\\C# PROGRAMMING\\Testing Exceptions\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\curse\\OneDrive - Ozarks Technical Community College\\C# PROGRAMMING\\Testing Exceptions\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:48:36.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
